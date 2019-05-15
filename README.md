@@ -1,6 +1,6 @@
 # libft
 
-Description
+<h1>Description :</h1>
 L'objectif de ce projet est de re-coder un certains nombre de la librairie C standard
 Cette librairie sera utilisée pour tous les projets C du cursus
 
